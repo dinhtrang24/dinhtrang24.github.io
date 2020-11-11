@@ -1,0 +1,56 @@
+# Site
+repository: dinhtrang24
+favicon: images/favicon.ico
+
+# Personal info
+name: Thu Trang Dinh
+#title:
+email: dinhtrang24@gmail.com
+#website: www.github.com/dinhtrang24
+
+# Social links
+#twitter_username: facespics
+github_username:  dinhtrang24
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+#instagram_username: chillwildlife
+linkedin_username: dinhtrang24
+# pinterest_username: jekyll
+# youtube_username: 
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+
+about_content: | # this will include new lines to allow paragraphs
+  I am a PhD student in Business and Management at the University of Manchester. My research interest is applying machine learning methodologies for forecasting financial markets. I mainly use Python and R to do explonatory data analysis and developing machine learning models. 
+
+
+# Projects Section
+projects_title: Research
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+#more_content: | # this will include new lines to allow paragraphs
+
+
+# Footer
+footer_show_references: false
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

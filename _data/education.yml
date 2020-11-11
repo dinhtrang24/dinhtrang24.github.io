@@ -1,0 +1,23 @@
+- layout: left
+  name: University of Manchester
+  dates: 2019 - present
+  qualification: PhD in Business and Management
+  #quote: >
+    #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  description: | # this will include new lines to allow paragraphs 
+    - Alliance Manchester Business School Doctoral Studentship 2019-2022 
+
+    - President’s Doctoral Scholar Award.
+
+- layout: left
+  name: University of Birmingham
+  dates: 2016 - 2017
+  qualification: MSc in Money, Banking and Finance
+  description: | 
+    Distinction degree
+- layout: left
+  name: Foreign Trade University
+  dates: 2012 - 2016
+  qualification: BSc in Economics and Finance
+  description: | 
+    First-class honours
