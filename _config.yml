@@ -25,7 +25,7 @@ linkedin_username: dinhtrang24
 about_profile_image: images/profile.jpg
 
 about_content: | # this will include new lines to allow paragraphs
-  I am a PhD student in Business and Management at the University of Manchester. My research interest is applying machine learning methodologies for forecasting financial markets. I mainly use Python and R to do explonatory data analysis and developing machine learning models. 
+  I am a PhD student in Business and Management at the University of Manchester. My research interest is applying machine learning methodologies for forecasting financial markets. I mainly use Python and R to do explonatory data analysis and develop machine learning models. 
 
 
 # Projects Section
@@ -47,6 +47,7 @@ footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
+darkmode: true
 
 sass:
   sass_dir: _sass
